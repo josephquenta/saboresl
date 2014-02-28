@@ -51,7 +51,7 @@
 
 		</style>
 	</head>
-	<body>
+	<body class="joseph">
 		<div id="maintenance">
 			 <p><br /><br /></p>
              {if isset($HOOK_MAINTENANCE)}{$HOOK_MAINTENANCE}{/if}
